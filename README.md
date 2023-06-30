@@ -13,7 +13,7 @@
 <h2>🤳Connect with me:</h2>
 
 
-[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<a href="https://www.linkedin.com/in/le-von-orton-768385236/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/shalifpeter" height="30" width="40" /></a>
 
 
 
